@@ -41,7 +41,7 @@ I build modern web applications, AI-powered solutions, and scalable software sys
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="right">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,mysql,python,pytorch,docker,aws,git,github,vscode,figma,linux,tensorflow,jotform/>
 </p>
 
@@ -59,12 +59,4 @@ I build modern web applications, AI-powered solutions, and scalable software sys
 
 
 
-## 📈 GitHub Stats
 
-![FlamezDev02's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamezDev02&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamezDev02&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FlamezDev02&theme=tokyonight)
