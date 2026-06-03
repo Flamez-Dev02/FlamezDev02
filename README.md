@@ -39,10 +39,10 @@ I build modern web applications, AI-powered solutions, and scalable software sys
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,mysql,python,pytorch,docker,aws,git,github,vscode,figma,linux,tensorflow,jotform/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,mysql,py,docker,aws,git,github,vscode,figma,linux" />
 </p>
 
 ## 🤖 AI & Machine Learning
