@@ -41,7 +41,7 @@ I build modern web applications, AI-powered solutions, and scalable software sys
 
 ## 🛠️ Languages & Tools
 
-<p align="right">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,mysql,python,pytorch,docker,aws,git,github,vscode,figma,linux,tensorflow,jotform/>
 </p>
 
